@@ -9,6 +9,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![API](https://img.shields.io/badge/API-Free%20Open%20Data-9cf?style=flat-square&logo=github)
 
+[![Test Online](https://img.shields.io/badge/Test%20Online-Click%20Here-brightgreen?style=for-the-badge)](https://bocaletto-luca.github.io/Github-Trend/)
+
 ## 📌 Overview  
 
 **GitHub Trend** is a **web application** that enables users to **explore trending repositories, developers, and technologies** on **GitHub** using **free open-data APIs**.  
