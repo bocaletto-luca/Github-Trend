@@ -1,0 +1,29 @@
+/* Basic body and container styling */
+    body {
+      background-color: #f8f9fa;
+      padding-top: 40px;
+      padding-bottom: 80px; /* Extra bottom padding to not hide content behind the fixed footer */
+    }
+    .container {
+      max-width: 1100px;
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    /* Card styling for each repository */
+    .repo-card {
+      margin-bottom: 20px;
+    }
+    /* Fixed footer styling */
+    footer {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background-color: #343a40;
+      color: #ffffff;
+      text-align: center;
+      padding: 10px 0;
+      font-size: 0.9rem;
+    }
