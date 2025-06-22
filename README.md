@@ -1,4 +1,4 @@
-# 📈 GitHub Trend ! WebAPP | API Free 
+# 📈 GitHub Trend | WebAPP | API Free  
 
 **Author:** Bocaletto Luca  
 **GitHub:** [bocaletto-luca](https://github.com/bocaletto-luca)  
